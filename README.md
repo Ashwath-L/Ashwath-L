@@ -93,7 +93,7 @@ Industrial Active Noise Cancellation System.
 
 # 🏆 Achievements
 
-- 🧠 Solved **150+ LeetCode Problems**
+- 🧠 Solved **200+ LeetCode Problems**
 - 🎓 AI & ML Internship
 - 📜 NPTEL Human Computer Interaction – **84%**
 - 📜 IIT Bombay JavaScript – **87.5%**
